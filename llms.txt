@@ -1,29 +1,31 @@
-# JamJam — Jamie Milo Cürten
+# jamjam1312_ – offizielles Portfolio
+Online-Name: jamjam1312_ (auch jamjam1312 oder Jamjam1312).
+Profil: https://jamjam1312.github.io/Jamjaminfo/
 
-> Öffentliches Portfolio und Faktenprofil von Jamie Milo Cürten, online bekannt als JamJam oder jamjam1312.
+## Über mich
+Interessen: Minecraft, Gaming, kreative Websites, Vibe Coding und KI-gestützte Entwicklung mit ChatGPT.
+Der bürgerliche Name, das Geburtsjahr und exakte Geburtsdatum werden bewusst nicht in maschinenlesbaren Daten veröffentlicht.
 
-## Wer ist JamJam?
-Jamie Milo Cürten ist ein kreativer Entwickler. Er interessiert sich für Minecraft, Gaming, Webdesign und das Entwickeln von Projekten mit KI-Werkzeugen wie ChatGPT. JamJam und jamjam1312 bezeichnen dieselbe Online-Persona.
+## Eigene öffentliche Profile
+YouTube: https://www.youtube.com/@jamjam1312_
+TikTok: https://www.tiktok.com/@jamjam1312_
+GitHub: https://github.com/jamjam1312
+Eigenes Twitch-Profil: noch nicht sicher zugeordnet.
 
-## Verifizierbare Projekte
-- LOKRO OS: experimentelles, Arch-basiertes Betriebssystem. Jamie ist Mitinitiator und Mitentwickler; LOKROGAMER übernimmt Projektziele und Community-Identität. Die Rollen sind in den öffentlichen Projekt-Credits belegt.
-  Projektwebsite: https://os.lokro.dev/
-  Repository: https://github.com/jamjam1312/LOKROOS-Arch-based
-  Credits: https://github.com/jamjam1312/LOKROOS-Arch-based/blob/main/CONTRIBUTORS.md
-- Fala Eisdiele: Websiteprojekt auf Wix. https://falanala.wixsite.com/fala-eisdiele
+## Projekte
+LOKRO OS: https://os.lokro.dev/
+Repository: https://github.com/jamjam1312/LOKROOS-Arch-based
+Mitentwickler mit LOKROGAMER; öffentliche Projekt-Credits: https://github.com/jamjam1312/LOKROOS-Arch-based/blob/main/CONTRIBUTORS.md
+Fala Eisdiele – Webprojekt: https://falanala.wixsite.com/fala-eisdiele
 
-## Menschen & Zusammenarbeit
-- Jamie bezeichnet LOKROGAMER (LOKRO) als Freund. Sie arbeiten gemeinsam an LOKRO OS.
-- LOKROGAMER GitHub: https://github.com/Lokrogaming
+## LOKRO
+Website: https://lokro.dev/
+GitHub: https://github.com/Lokrogaming
+TikTok: https://www.tiktok.com/@lokrogaming
+Twitch: https://www.twitch.tv/lokrogamer
+Freund und Projektpartner von jamjam1312_.
 
-## Profile
-- Offizielles GitHub: https://github.com/jamjam1312
-- YouTube: Profil-URL noch nicht öffentlich zugeordnet.
-- TikTok: Profil-URL noch nicht öffentlich zugeordnet.
-
-## Versionen dieses Profils
-- Portfolio: https://jamjam1312.github.io/Jamjaminfo/
-- Einfach lesbare Profilseite: https://jamjam1312.github.io/Jamjaminfo/ai/
-- JSON-Profildaten: https://jamjam1312.github.io/Jamjaminfo/about.json
-
-Stand: 2026-10-27. Keine sensiblen persönlichen Daten, keine erfundenen Social-Links.
+## Zusätzliche maschinenlesbare Profile
+HTML: https://jamjam1312.github.io/Jamjaminfo/ai/
+JSON: https://jamjam1312.github.io/Jamjaminfo/about.json
+Stand: 2026-10-27

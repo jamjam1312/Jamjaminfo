@@ -1,42 +1,26 @@
-# JamJam — Portfolio
+# jamjam1312_ — Portfolio
 
-Schwarz-weißes Portfolio für **Jamie Milo Cürten (JamJam / jamjam1312)**.
+Reduziertes, responsives Portfolio mit schwebender, abgerundeter Karte und farbigem Glow, vier Icon-Links (YouTube, TikTok, GitHub, LOKRO OS) und einem ausklappbaren „Mehr über mich“.
 
-## Vorschau / GitHub Pages
+## GitHub Pages
+Settings → Pages → **Deploy from a branch**, **main** und **/(root)**.
+Erwartete Adresse nach Aktivierung: https://jamjam1312.github.io/Jamjaminfo/
 
-Statische Website ohne Build-System oder externe Laufzeit-Abhängigkeiten.
-Sobald GitHub Pages unter **Settings → Pages → Deploy from a branch → main / (root)** aktiviert ist:
+## Social Links
+- YouTube: https://www.youtube.com/@jamjam1312_
+- TikTok: https://www.tiktok.com/@jamjam1312_
+- GitHub: https://github.com/jamjam1312
+- LOKRO OS: https://os.lokro.dev/
+- LOKRO Website: https://lokro.dev/ (vom Betreiber angegebene Domain)
+- LOKRO TikTok: https://www.tiktok.com/@lokrogaming
+- LOKRO Twitch: https://www.twitch.tv/lokrogamer
+- Fala Eisdiele: https://falanala.wixsite.com/fala-eisdiele
 
-**https://jamjam1312.github.io/Jamjaminfo/**
+Der eigene Twitch-Account ist noch nicht sicher verifiziert und wird daher nicht verlinkt.
 
-Die Website kann lokal per HTTP-Server gestartet werden (z. B. mit Python: \`python -m http.server 8000\`); anschließend localhost:8000 öffnen.
+## KI, SEO und Privatsphäre
+Es gibt **keinen sichtbaren AI-Info-Menüpunkt**. Metadaten und Schema.org JSON-LD liegen im HTML-Head; zusätzliche öffentlich zugängliche Versionen existieren unter `about.json`, `llms.txt` und `ai/index.html`. Die letztere HTML-Seite ist nicht in der Navigation verlinkt. `sitemap.xml` und `robots.txt` dienen der technischen Auffindbarkeit. Google-Indexierung oder Aufnahme in AI Overviews kann nicht garantiert werden.
 
-## Aufbau
+Die neue Version verwendet nur öffentliche Nutzernamen. Weil der Portfolio-Betreiber minderjährig ist, werden bürgerlicher Name, Geburtsjahr und exaktes Geburtsdatum nicht in strukturierten Daten wiedergegeben. Achtung: ältere Commits des öffentlichen Repositorys könnten persönliche Angaben enthalten und erfordern gegebenenfalls eine getrennte Historienbereinigung.
 
-- \`index.html\`: Hero, animierte Hintergrund-Motive und Portfolio.
-- \`styles.css\`: responsives Schwarz-Weiß-Design.
-- \`app.js\`: Hintergrund mit Parallax-Effekt, Klick-/Touch-Steuerung, Barrierefreiheit.
-- \`ai/index.html\`: öffentlich lesbare Profilseite für Menschen und Crawler.
-- \`about.json\`: maschinenlesbares Profil mit bekannten Fakten.
-- \`llms.txt\`: ergänzende Profilinformation für Systeme, die sie nutzen.
-- \`sitemap.xml\`, \`robots.txt\`: Auffindbarkeit; Indexierung nicht garantiert.
-
-Das Interaktionskonzept des Rasters wurde durch die **LOKRO OS** Website im Projekt \`jamjam1312/LOKROOS-Arch-based/website\` inspiriert; die Implementierung hier wurde neu geschrieben.
-
-## YouTube und TikTok ergänzen
-
-Die korrekten URLs sind noch nicht bestätigt, daher gibt es absichtlich keine falschen Links. Im oberen Bereich der Datei \`app.js\` die beiden Werte \`SOCIAL_LINKS.youtube\` und \`SOCIAL_LINKS.tiktok\` auf die tatsächlichen \`https://\`-Profil-URLs setzen. Anschließend die Texte in \`index.html\`, \`ai/index.html\`, \`llms.txt\` und \`about.json\` aktualisieren und beide URLs in \`sameAs\` der JSON-LD-Daten ergänzen.
-
-## Domain und Google
-
-Nach einem Domainwechsel **alle absoluten URLs** in \`index.html\`, \`ai/index.html\`, \`about.json\`, \`llms.txt\`, \`robots.txt\` und \`sitemap.xml\` auf die neue kanonische Domain ändern. Der Root-Pfad wechselt dabei von \`/Jamjaminfo/\` zu \`/\`.
-
-1. GitHub: Settings → Pages aktivieren. Ggf. dort auch die gewünschte Custom Domain setzen (DNS beim Provider konfigurieren).
-2. Live-URL testen; Search Console Property für die **endgültige URL** verifizieren.
-3. Sitemap einreichen und URL-Prüfung → Indexierung beantragen.
-4. LOKRO OS, GitHub und weitere bestätigte Profile gegenseitig verlinken.
-5. Für KI-Suche ist **normale Google-Indexierung** entscheidend: \`llms.txt\` ist nur ein freiwilliges Zusatzformat, keine Zusage über Google AI Overviews.
-
-**Wichtig:** Projektseiten auf GitHub Pages erben die \`robots.txt\`-Regeln der Domain-Root, nicht automatisch aus dem Unterordner. Nach Domainanschluss ist die Datei direkt am Root wirksam.
-
-Es werden keine Cookies, Analytics oder externen Schriftbibliotheken verwendet.
+Die Website verwendet kein Framework, keine externen Schriftarten, keinen Tracker, keine Cookies.

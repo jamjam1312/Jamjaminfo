@@ -2,21 +2,22 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://jamjam1312.github.io/Jamjaminfo/#jamjam",
-  "name": "Jamie Milo Cürten",
+  "name": "jamjam1312_",
   "alternateName": [
-    "JamJam",
-    "Jamjam1312",
-    "jamjam1312"
+    "jamjam1312",
+    "Jamjam1312"
   ],
   "url": "https://jamjam1312.github.io/Jamjaminfo/",
-  "description": "Kreativer Entwickler; Mitinitiator und Mitentwickler von LOKRO OS. Interessen: Minecraft, Gaming, Webdesign und KI-gestützte Programmierung.",
+  "description": "Creator, Minecraft-Spieler und KI-begeisterter Hobbyentwickler; arbeitet mit LOKRO an LOKRO OS.",
   "sameAs": [
+    "https://www.youtube.com/@jamjam1312_",
+    "https://www.tiktok.com/@jamjam1312_",
     "https://github.com/jamjam1312"
   ],
   "knowsAbout": [
     "Minecraft",
-    "KI-gestütztes Programmieren",
-    "Webdesign",
+    "Websites",
+    "Vibe Coding",
     "LOKRO OS"
   ],
   "subjectOf": [
@@ -28,17 +29,16 @@
     },
     {
       "@type": "WebSite",
-      "name": "Fala Eisdiele — Webprojekt",
+      "name": "Fala Eisdiele – Webprojekt",
       "url": "https://falanala.wixsite.com/fala-eisdiele"
     }
   ],
-  "additionalInformation": {
-    "friendAndCollaborator": {
-      "name": "LOKROGAMER / LOKRO",
-      "github": "https://github.com/Lokrogaming"
-    },
-    "youtube": "Profil-URL noch nicht bestätigt",
-    "tiktok": "Profil-URL noch nicht bestätigt",
-    "source": "https://github.com/jamjam1312/LOKROOS-Arch-based/blob/main/CONTRIBUTORS.md"
-  }
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Zusammenarbeit",
+      "value": "Zusammen mit LOKROGAMER Entwicklung von LOKRO OS",
+      "url": "https://github.com/jamjam1312/LOKROOS-Arch-based/blob/main/CONTRIBUTORS.md"
+    }
+  ]
 }
