@@ -25,3 +25,10 @@ Das Portfolio enthält Schema.org JSON-LD, `about.json`, `llms.txt` und eine zus
 Da der Betreiber minderjährig ist, enthalten die maschinenlesbaren Metadaten nur den öffentlichen Nutzernamen, keinen bürgerlichen Namen oder exaktes Geburtsdatum. Ältere Git-Commits können weiterhin früher veröffentlichte Angaben enthalten.
 
 Keine Cookies, keine Analyse-Skripte, kein Framework und keine externen Laufzeit-Abhängigkeiten.
+
+## Weitere Links im „Mehr“-Dialog
+- CurseForge-Mod (Google-Kurzlink): https://share.google/AKccoGyNwGwvAXWG0
+- Reddit: https://www.reddit.com/u/RevolutionaryBit2229/s/N6xvZRbsBn
+- Skin-Editor-Profil (Google-Kurzlink): https://share.google/IU374S6fLDyMp1VhO
+
+Die beiden `share.google`-Links wurden exakt aus der Nutzernachricht übernommen. Ihre Zielseiten konnten nicht unabhängig aufgelöst werden. Direkte CurseForge- und Skin-Editor-URLs wären für öffentliches Verlinken zuverlässiger.
