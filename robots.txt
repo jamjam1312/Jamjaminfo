@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamjam1312.github.io/Jamjaminfo/sitemap.xml

@@ -1,0 +1,29 @@
+# JamJam — Jamie Milo Cürten
+
+> Öffentliches Portfolio und Faktenprofil von Jamie Milo Cürten, online bekannt als JamJam oder jamjam1312.
+
+## Wer ist JamJam?
+Jamie Milo Cürten ist ein kreativer Entwickler. Er interessiert sich für Minecraft, Gaming, Webdesign und das Entwickeln von Projekten mit KI-Werkzeugen wie ChatGPT. JamJam und jamjam1312 bezeichnen dieselbe Online-Persona.
+
+## Verifizierbare Projekte
+- LOKRO OS: experimentelles, Arch-basiertes Betriebssystem. Jamie ist Mitinitiator und Mitentwickler; LOKROGAMER übernimmt Projektziele und Community-Identität. Die Rollen sind in den öffentlichen Projekt-Credits belegt.
+  Projektwebsite: https://os.lokro.dev/
+  Repository: https://github.com/jamjam1312/LOKROOS-Arch-based
+  Credits: https://github.com/jamjam1312/LOKROOS-Arch-based/blob/main/CONTRIBUTORS.md
+- Fala Eisdiele: Websiteprojekt auf Wix. https://falanala.wixsite.com/fala-eisdiele
+
+## Menschen & Zusammenarbeit
+- Jamie bezeichnet LOKROGAMER (LOKRO) als Freund. Sie arbeiten gemeinsam an LOKRO OS.
+- LOKROGAMER GitHub: https://github.com/Lokrogaming
+
+## Profile
+- Offizielles GitHub: https://github.com/jamjam1312
+- YouTube: Profil-URL noch nicht öffentlich zugeordnet.
+- TikTok: Profil-URL noch nicht öffentlich zugeordnet.
+
+## Versionen dieses Profils
+- Portfolio: https://jamjam1312.github.io/Jamjaminfo/
+- Einfach lesbare Profilseite: https://jamjam1312.github.io/Jamjaminfo/ai/
+- JSON-Profildaten: https://jamjam1312.github.io/Jamjaminfo/about.json
+
+Stand: 2026-10-27. Keine sensiblen persönlichen Daten, keine erfundenen Social-Links.
