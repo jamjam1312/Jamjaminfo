@@ -31,3 +31,7 @@ h1{font-size:clamp(24px,6vw,29px);line-height:1.15;letter-spacing:-.045em;font-w
 .close{position:absolute;right:16px;top:13px;border:0;border-radius:10px;color:#f4efff;background:transparent;cursor:pointer;font-size:29px;width:36px;height:36px;display:grid;place-items:center}.close:hover{background:rgba(255,255,255,.09)}
 @media(max-width:390px){.stage{padding:20px}.card{padding:25px 20px 14px}.card-shell{width:min(100%,325px)}.icons{gap:8px}.social{border-radius:14px}.social svg{width:24px;height:24px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+
+/* Legal link inside the More dialog */
+.details .legal-link{font-size:11px;color:#c7bfdc;text-decoration:underline;text-underline-offset:3px}
+.details .legal-link:hover{color:#fff}
